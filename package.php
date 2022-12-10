@@ -23,6 +23,10 @@
 	<div id="menu-btn" class="fas fa-bars"></div>
 </section>
 
+<div class="heading" style="background:url(img/header-bg-2.png) no-repeat">
+	<h1>Pacotes</h1>
+</div>
+
 
 <!-- ======= Footer Section ======= -->
 <section class="footer">

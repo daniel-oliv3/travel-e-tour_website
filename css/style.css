@@ -87,6 +87,8 @@ section {
 
 
 
+/* ======= Services Section ======= */
+
 
 
 
@@ -136,7 +138,7 @@ section {
 .footer .box-container .box a {
     color: var(--light-white);
     font-size: 1.5rem;
-    padding-bottom: 1rem;
+    padding-bottom: 1.5rem;
     display: block;
 }
 
