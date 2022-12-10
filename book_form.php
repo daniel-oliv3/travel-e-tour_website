@@ -11,6 +11,53 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 </head>
 <body>
+<!-- ======= Header Section ======= -->
+<section class="header">
+	<a href="home.php" class="logo">Travel.</a>
+	<nav class="navbar">
+		<a href="home.php">Home</a>
+		<a href="about.php">Sobre</a>
+		<a href="package.php">Pacote</a>
+		<a href="book.php">Livro</a>
+	</nav>
+	<div id="menu-btn" class="fas fa-bars"></div>
+</section>
+
+
+<!-- ======= Footer Section ======= -->
+<section class="footer">
+	<div class="box-container">
+		<div class="box">
+			<h3>Links Rápidos</h3>
+			<a href="home.php"><i class="fas fa-angle-right"></i> Home</a>
+			<a href="about.php"><i class="fas fa-angle-right"></i> Sobre</a>
+			<a href="package.php"><i class="fas fa-angle-right"></i> Pacote</a>
+			<a href="book.php"><i class="fas fa-angle-right"></i> Livro</a>
+		</div>
+		<div class="box">
+			<h3>Links Extras</h3>
+			<a href="#"><i class="fas fa-angle-right"></i> Pergunte</a>
+			<a href="#"><i class="fas fa-angle-right"></i> Sobre nós</a>
+			<a href="#"><i class="fas fa-angle-right"></i> Política de Privacidade</a>
+			<a href="#"><i class="fas fa-angle-right"></i> Termos de uso</a>
+		</div>
+		<div class="box">
+			<h3>Informações de contato</h3>
+			<a href="#"><i class="fas fa-phone"></i> 55+ (92) 99131-5030</a>
+			<a href="#"><i class="fas fa-phone"></i> 55+ (92) 99221-5202</a>
+			<a href="#"><i class="fas fa-envelope"></i> danielsapup3@gmail.com</a>
+			<a href="#"><i class="fas fa-map"></i> Manaus, Brasil - 69090-380</a>
+		</div>
+		<div class="box">
+			<h3>Siga-nos</h3>
+			<a href="#"><i class="fab fa-facebook-f"></i> Facebook</a>
+			<a href="#"><i class="fab fa-twitter"></i> Twitter</a>
+			<a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+			<a href="#"><i class="fab fa-linkedin"></i> Linkedin</a>
+		</div>
+	</div>
+</section>
+
 	
 	<script src="js/script.js"></script>
 </body>
