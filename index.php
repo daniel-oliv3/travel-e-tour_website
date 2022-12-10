@@ -21,7 +21,7 @@
 			<a href="home.php">Home</a>
 			<a href="about.php">Sobre</a>
 			<a href="package.php">Pacote</a>
-			<a href="Book.php">Livro</a>
+			<a href="book.php">Livro</a>
 		</nav>
 
 
