@@ -113,8 +113,10 @@ section {
 
 
 
-
-
+/* ======= Footer Section ======= */
+.footer {
+    background: url(../img/footer-bg.jpg) no-repeat;
+}
 
 
 

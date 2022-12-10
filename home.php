@@ -50,6 +50,13 @@
 			<a href="#"><i class="fas fa-envelope"></i> danielsapup3@gmail.com</a>
 			<a href="#"><i class="fas fa-map"></i> Manaus, Brasil - 69090-380</a>
 		</div>
+		<div class="box">
+			<h3>Siga-nos</h3>
+			<a href="#"><i class="fab fa-facebook-f"></i> Facebook</a>
+			<a href="#"><i class="fab fa-twitter"></i> Twitter</a>
+			<a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+			<a href="#"><i class="fab fa-linkedin"></i> Linkedin</a>
+		</div>
 	</div>
 </section>
 
