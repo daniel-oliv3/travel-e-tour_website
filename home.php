@@ -15,15 +15,14 @@
 <body>
 <!-- ======= Header Section ======= -->
 <section class="header">
-	<a href="index.php" class="logo">Travel.</a>
+	<a href="home.php" class="logo">Travel.</a>
+	<nav class="navbar">
+		<a href="home.php">Home</a>
+		<a href="about.php">Sobre</a>
+		<a href="package.php">Pacote</a>
+		<a href="book.php">Livro</a>
+	</nav>
 </section>
-		<nav>
-			<a href="home.php">Home</a>
-			<a href="about.php">Sobre</a>
-			<a href="package.php">Pacote</a>
-			<a href="book.php">Livro</a>
-		</nav>
-
 
 
 	<!-- Swiper JS Link -->
