@@ -26,6 +26,37 @@
 </section>
 
 
+<!-- ======= Footer Section ======= -->
+<section class="footer">
+	<div class="box-container">
+		<div class="box">
+			<h3>Links Rápidos</h3>
+			<a href="home.php"><i class="fas fa-angle-right"></i> Home</a>
+			<a href="about.php"><i class="fas fa-angle-right"></i> Sobre</a>
+			<a href="package.php"><i class="fas fa-angle-right"></i> Pacote</a>
+			<a href="book.php"><i class="fas fa-angle-right"></i> Livro</a>
+		</div>
+		<div class="box">
+			<h3>Links Extras</h3>
+			<a href="#"><i class="fas fa-angle-right"></i> Pergunte</a>
+			<a href="#"><i class="fas fa-angle-right"></i> Sobre nós</a>
+			<a href="#"><i class="fas fa-angle-right"></i> Política de Privacidade</a>
+			<a href="#"><i class="fas fa-angle-right"></i> Termos de uso</a>
+		</div>
+		<div class="box">
+			<h3>Informações de contato</h3>
+			<a href="#"><i class="fas fa-phone"></i> 55+ (92) 99131-5030</a>
+			<a href="#"><i class="fas fa-phone"></i> 55+ (92) 99221-5202</a>
+			<a href="#"><i class="fas fa-envelope"></i> danielsapup3@gmail.com</a>
+			<a href="#"><i class="fas fa-map"></i> Manaus, Brasil - 69090-380</a>
+		</div>
+	</div>
+</section>
+
+
+
+
+
 	<!-- Swiper JS Link -->
 	<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 	<script src="js/script.js"></script>
