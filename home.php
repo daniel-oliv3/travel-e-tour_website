@@ -58,6 +58,7 @@
 			<a href="#"><i class="fab fa-linkedin"></i> Linkedin</a>
 		</div>
 	</div>
+	<div class="credit">Criado por<span>Daniel Oliveira</span> | Todos Direitos Reservados!</div>
 </section>
 
 
