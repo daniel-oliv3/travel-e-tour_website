@@ -118,7 +118,7 @@ section {
     background: url(../img/footer-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    /*background-attachment: fixed;*/
 }
 
 .footer .box-container {
@@ -160,7 +160,9 @@ section {
     color: var(--white);
 }
 
-
+.footer .credit span {
+    color: var(--main-color);
+}
 
 
 
