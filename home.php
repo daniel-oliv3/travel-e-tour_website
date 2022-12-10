@@ -26,6 +26,36 @@
 </section>
 
 
+<!-- ======= Home Section ======= -->
+<section class="home">
+	<div class="home-slide">
+		<div class="w">
+			<div class="slide" style="background:url(img/home-slide-1.jpg) no-repeat">
+				<div class="content">
+					<span>Explorar, descobrir, viajar</span>
+					<h3>Viajar ao redor do mundo</h3>
+					<a href="package.php" class="btn">Descubra mais</a>
+				</div>
+			</div>
+			<div class="slide" style="background:url(img/home-slide-2.jpg) no-repeat">
+				<div class="content">
+					<span>Explorar, descobrir, viajar</span>
+					<h3>Conheça os novos lugares</h3>
+					<a href="package.php" class="btn">Descubra mais</a>
+				</div>
+			</div>
+			<div class="slide" style="background:url(img/home-slide-3.jpg) no-repeat">
+				<div class="content">
+					<span>Explorar, descobrir, viajar</span>
+					<h3>Faça seu passeio valer a pena</h3>
+					<a href="package.php" class="btn">Descubra mais</a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+
 <!-- ======= Services Section ======= -->
 <section class="services">
 	<h1 class="heading-title">Nossos serviços</h1>
@@ -56,7 +86,6 @@
 		</div>
 	</div>
 </section>
-
 
 
 <!-- ======= Footer Section ======= -->
@@ -93,9 +122,6 @@
 	</div>
 	<div class="credit">Criado por <span>Daniel Oliveira</span> | Todos Direitos Reservados!</div>
 </section>
-
-
-
 
 
 	<!-- Swiper JS Link -->
