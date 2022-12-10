@@ -22,6 +22,7 @@
 		<a href="package.php">Pacote</a>
 		<a href="book.php">Livro</a>
 	</nav>
+	<div id="menu-btn" class="fas fa-bars"></div>
 </section>
 
 
