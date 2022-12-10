@@ -27,6 +27,37 @@
 
 
 <!-- ======= Services Section ======= -->
+<section class="services">
+	<h1 class="heading-title">Nossos serviços</h1>
+	<div class="box-container">
+		<div class="box">
+			<img src="img/icon-1.png" alt="">
+			<h3>Aventura</h3>
+		</div>
+		<div class="box">
+			<img src="img/icon-2.png" alt="">
+			<h3>Guia turístico</h3>
+		</div>
+		<div class="box">
+			<img src="img/icon-3.png" alt="">
+			<h3>Caminhada</h3>
+		</div>
+		<div class="box">
+			<img src="img/icon-4.png" alt="">
+			<h3>Fogueira</h3>
+		</div>
+		<div class="box">
+			<img src="img/icon-5.png" alt="">
+			<h3>Fora da estrada</h3>
+		</div>
+		<div class="box">
+			<img src="img/icon-6.png" alt="">
+			<h3>Acampamento</h3>
+		</div>
+	</div>
+</section>
+
+
 
 <!-- ======= Footer Section ======= -->
 <section class="footer">
