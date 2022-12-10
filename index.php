@@ -14,7 +14,15 @@
 </head>
 <body>
 <!-- ======= Header Section ======= -->
-
+<section class="header">
+	<a href="index.php" class="logo">Travel.</a>
+</section>
+		<nav>
+			<a href="home.php">Home</a>
+			<a href="about.php">Sobre</a>
+			<a href="package.php">Pacote</a>
+			<a href="Book.php">Livro</a>
+		</nav>
 
 
 
