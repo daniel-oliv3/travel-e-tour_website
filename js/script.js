@@ -1,4 +1,4 @@
-/* btn toggle menu*/
+/* ======= btn toggle menu ======= */
 let menu = document.querySelector('#menu-btn');
 let navbar = document.querySelector('.header .navbar');
 
@@ -12,7 +12,14 @@ window.onscroll = () => {
     navbar.classList.remove('active');
 }
 
-
+/* ======= btn swiper slider ======= */
+var swiper = new Swiper(".home-slider", {
+    loop:true,
+    navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+    },
+});
 
 
 
