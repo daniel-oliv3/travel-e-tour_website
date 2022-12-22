@@ -57,6 +57,7 @@
 	</div>
 </section>
 
+
 <!-- ======= Services Section ======= -->
 <section class="services">
 	<h1 class="heading-title">Nossos serviços</h1>
@@ -85,6 +86,20 @@
 			<img src="img/icon-6.png" alt="">
 			<h3>Acampamento</h3>
 		</div>
+	</div>
+</section>
+
+
+<!-- ======= Home About Section ======= -->
+<section class="home-about">
+	<div class="image">
+		<img src="img/about-img.jpg" alt="">
+	</div>
+
+	<div class="content">
+		<h3>Sobre nós</h3>
+		<p>Quem num gosta di mim que vai caçá sua turmis! Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.Aenean aliquam molestie leo, vitae iaculis nisl. Interagi no mé, cursus quis, vehicula ac nisi.</p>
+		<a href="about.php" class="btn">Mais informações</a>
 	</div>
 </section>
 
