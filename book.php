@@ -68,7 +68,7 @@
             <input type="date" name="Saindo">
          </div>
       </div>
-      <input type="submit" value="submit" class="btn" name="Enviar">
+      <input type="submit" value="Enviar" class="btn" name="send">
    </form>
 </section>
 
