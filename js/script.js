@@ -21,8 +21,24 @@ var swiper = new Swiper(".home-slider", {
     },
 });
 
-
-
+/* ======= btn about us - swiper slider ======= */
+var swiper = new Swiper(".reviews-slider", {
+    loop:true,
+    spaceBetween: 20,
+    autoHeight: true,
+    grabCursor: true,
+    breakpoints: {
+        640: {
+            slidesPerView: 1,
+        },
+        768: {
+            slidesPerView: 2,
+        },
+        1024: {
+            slidesPerView: 3,
+        },
+    },
+});
 
 
 
