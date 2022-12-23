@@ -9,6 +9,8 @@
 	<link rel="shortcut icon" href="img/favicon.ico"/>
 	<!-- Font Awesome CDN Link -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+	<!-- Swiper CSS Link -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
 </head>
 <body>
 <!-- ======= Header Section ======= -->
@@ -26,6 +28,49 @@
 <div class="heading" style="background:url(img/header-bg-3.png) no-repeat">
 	<h1>Agende agora</h1>
 </div>
+
+
+<!-- ======= Book Section ======= -->
+<section class="booking">
+   <h1 class="heading-title">Reserve a sua viagem!</h1>
+   <form action="book_form.php" method="post" class="book-form">
+      <div class="flex">
+         <div class="inputBox">
+            <span>nome :</span>
+            <input type="text" placeholder="Digite seu nome" name="name">
+         </div>
+         <div class="inputBox">
+            <span>email :</span>
+            <input type="email" placeholder="Digite seu email" name="email">
+         </div>
+         <div class="inputBox">
+            <span>telefone :</span>
+            <input type="number" placeholder="Digite seu número" name="phone">
+         </div>
+         <div class="inputBox">
+            <span>Endereço :</span>
+            <input type="text" placeholder="Digite seu endereço" name="address">
+         </div>
+         <div class="inputBox">
+            <span>Para onde :</span>
+            <input type="text" placeholder="Lugar que você quer visitar" name="location">
+         </div>
+         <div class="inputBox">
+            <span>Quantos :</span>
+            <input type="number" placeholder="Número de convidados" name="guests">
+         </div>
+         <div class="inputBox">
+            <span>Chegadas :</span>
+            <input type="date" name="Chegadas">
+         </div>
+         <div class="inputBox">
+            <span>Saindo :</span>
+            <input type="date" name="Saindo">
+         </div>
+      </div>
+      <input type="submit" value="submit" class="btn" name="Enviar">
+   </form>
+</section>
 
 
 <!-- ======= Footer Section ======= -->
