@@ -59,9 +59,10 @@
 
 <!-- ======= Reviews Section ======= -->
 <section class="reviews">
+	<h1 class="heading-title"> Comentários de clientes </h1>
 	<div class="swiper reviews-slider">
 		<div class="swiper-wrapper">
-			<div class="swiper-slider slide">
+			<div class="swiper-slide slide">
 				<div class="stars">
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
@@ -74,7 +75,7 @@
 				<span>Viajante</span>
 				<img src="img/pic-1.png" alt="">
 			</div>
-			<div class="swiper-slider slide">
+			<div class="swiper-slide slide">
 				<div class="stars">
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
@@ -86,7 +87,7 @@
 				<span>Viajante</span>
 				<img src="img/pic-2.png" alt="">
 			</div>
-			<div class="swiper-slider slide">
+			<div class="swiper-slide slide">
 				<div class="stars">
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
@@ -99,7 +100,7 @@
 				<span>Viajante</span>
 				<img src="img/pic-3.png" alt="">
 			</div>
-			<div class="swiper-slider slide">
+			<div class="swiper-slide slide">
 				<div class="stars">
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
@@ -110,7 +111,7 @@
 				<span>Viajante</span>
 				<img src="img/pic-4.png" alt="">
 			</div>
-			<div class="swiper-slider slide">
+			<div class="swiper-slide slide">
 				<div class="stars">
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
@@ -123,7 +124,7 @@
 				<span>Viajante</span>
 				<img src="img/pic-5.png" alt="">
 			</div>			
-			<div class="swiper-slider slide">
+			<div class="swiper-slide slide">
 				<div class="stars">
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
