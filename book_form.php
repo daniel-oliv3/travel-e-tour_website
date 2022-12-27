@@ -3,14 +3,14 @@
    $connection = mysqli_connect('localhost','root','','travel-e-tour_base-dados');
 
    if(isset($_POST['send'])){
-      $name = $_POST['nome'];
+      $nome = $_POST['nome'];
       $email = $_POST['email'];
-      $phone = $_POST['telefone'];
-      $address = $_POST['endereco'];
-      $location = $_POST['localizacao'];
-      $guests = $_POST['convidados'];
-      $arrivals = $_POST['chegadas'];
-      $leaving = $_POST['saindo'];
+      $telefone = $_POST['telefone'];
+      $endereco = $_POST['endereco'];
+      $localizacao = $_POST['localizacao'];
+      $convidados = $_POST['convidados'];
+      $chegadas = $_POST['chegadas'];
+      $saindo = $_POST['saindo'];
 
       $request = "INSERT INTO book_form(nome, email, telefone, endereco, localizacao, convidados, chegadas, saindo) VALUES('$nome','$email','$telefone','$endereco','$localizacao','$convidados','$chegadas','$saindo') ";
       mysqli_query($connection, $request);

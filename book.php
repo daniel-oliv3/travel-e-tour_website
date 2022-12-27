@@ -37,7 +37,7 @@
       <div class="flex">
          <div class="inputBox">
             <span>nome :</span>
-            <input type="text" placeholder="Digite seu nome" name="name">
+            <input type="text" placeholder="Digite seu nome" name="nome">
          </div>
          <div class="inputBox">
             <span>email :</span>
@@ -45,27 +45,27 @@
          </div>
          <div class="inputBox">
             <span>telefone :</span>
-            <input type="number" placeholder="Digite seu número" name="phone">
+            <input type="number" placeholder="Digite seu número" name="telefone">
          </div>
          <div class="inputBox">
             <span>Endereço :</span>
-            <input type="text" placeholder="Digite seu endereço" name="address">
+            <input type="text" placeholder="Digite seu endereço" name="endereco">
          </div>
          <div class="inputBox">
             <span>Para onde :</span>
-            <input type="text" placeholder="Lugar que você quer visitar" name="location">
+            <input type="text" placeholder="Lugar que você quer visitar" name="localizacao">
          </div>
          <div class="inputBox">
             <span>Quantos :</span>
-            <input type="number" placeholder="Número de convidados" name="guests">
+            <input type="number" placeholder="Número de convidados" name="convidados">
          </div>
          <div class="inputBox">
             <span>Chegadas :</span>
-            <input type="date" name="Chegadas">
+            <input type="date" name="chegadas">
          </div>
          <div class="inputBox">
             <span>Saindo :</span>
-            <input type="date" name="Saindo">
+            <input type="date" name="saindo">
          </div>
       </div>
       <input type="submit" value="Enviar" class="btn" name="send">
