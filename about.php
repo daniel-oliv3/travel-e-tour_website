@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="shortcut icon" href="img/favicon.ico"/>
 	<!-- Font Awesome CDN Link -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+	<link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
 	<!-- Swiper CSS Link -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
 </head>
@@ -82,7 +82,7 @@
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
 				</div>
-				<p>Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Aenean aliquam molestie leo, vitae iaculis nisl. In elementis mé pra quem é amistosis quis leo. Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.Sapien in monti palavris qui num significa nadis i pareci latim</p>
+				<p>Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Aenean aliquam molestie leo, vitae iaculis nisl. In elementis mé pra quem é amistosis quis leo. Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Tá alegrar sua vidis.Admodum acc Vide electram sad</p>
 				<h3>Judith Harper-Melnick</h3>
 				<span>Viajante</span>
 				<img src="img/pic-2.png" alt="">
@@ -106,7 +106,7 @@
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
 				</div>
-				<p>Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Suco de cevadiss deixa as pessoas mais interessantis. Delegadis gente finis, bibendum egestas augue arcu ut est. Quem num gosta di mim que vai caçá sua turmis! Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.</p>
+				<p>Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Suco de cevadiss deixa as pessoas mais interessantis. Delegadis gente finis, bibendum egestas augue arcu ut est. Quem num gosta di mim que vai caçá sua turmis! Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque</p>
 				<h3>Evelyn Harper</h3>
 				<span>Viajante</span>
 				<img src="img/pic-4.png" alt="">
@@ -119,7 +119,7 @@
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
 				</div>
-				<p>Copo furadis é disculpa de bebadis, arcu quam euismod magna. Quem manda na minha terra sou euzis! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Aenean aliquam molestie leo, vitae iaculis nisl. Suco de cevadiss deixa as pessoas mais interessantis. Leite de capivaris, leite de mula manquis sem cabeça</p>
+				<p>Copo furadis é disculpa de bebadis, arcu quam euismod magna. Quem manda na minha terra sou euzis! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Aenean aliquam molestie leo, vitae iaculis nisl. Suco de cevadiss deixa as pessoas mais interessantis. Leite de capivaris</p>
 				<h3>Jake Harper</h3>
 				<span>Viajante</span>
 				<img src="img/pic-5.png" alt="">
@@ -131,7 +131,7 @@
 					<i class="fas fa-star"></i>
 					<i class="fas fa-star"></i>
 				</div>
-				<p>etraxit consequat et quo num tendi nada. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Diuretics paradis num copo é motivis de denguis In elementis mé pra quem é amistosis quis leo. Admodum accumsan disputationi eu si</p>
+				<p>etraxit consequat et quo num tendi nada. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose. Diuretics paradis num copo é motivis de denguis In elementis mé pra quem é amistosis quis leo</p>
 				<h3>Rose</h3>
 				<span>Viajante</span>
 				<img src="img/pic-6.png" alt="">
@@ -175,6 +175,9 @@
 	</div>
 	<div class="credit">Criado por <span>Daniel Oliveira</span> | Todos Direitos Reservados!</div>
 </section>
+
+	<!-- swiper js link  -->
+	<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
 	
 	<script src="js/script.js"></script>

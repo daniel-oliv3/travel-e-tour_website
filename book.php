@@ -8,9 +8,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="shortcut icon" href="img/favicon.ico"/>
 	<!-- Font Awesome CDN Link -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
-	<!-- Swiper CSS Link -->
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">	
 </head>
 <body>
 <!-- ======= Header Section ======= -->
@@ -108,7 +106,7 @@
 	<div class="credit">Criado por <span>Daniel Oliveira</span> | Todos Direitos Reservados!</div>
 </section>
 
-	
+
 	<script src="js/script.js"></script>
 </body>
 </html>
